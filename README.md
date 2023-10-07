@@ -58,7 +58,7 @@ see `contributing.md` for ways to get started
 
 ## :handshake: Contact
 
-Nikhil Singh - [@twitter_handle](@mainikhilhun) - nikhilsingh.cc@gmail.com
+Nikhil Singh - [@twitter_handle](https://twitter.com/mainikhilhun) - nikhilsingh.cc@gmail.com
 
 Project Link: [https://github.com/nikhilkcodes/currency_convertor_react.git](https://github.com/nikhilkcodes/currency_convertor_react.git)
 
