@@ -13,6 +13,7 @@
 - [About the Project](#star2-about-the-project)
 - [Contributing](#wave-contributing)
 - [Contact](#handshake-contact)
+- [Acknowledgements](#gem-acknowledgements)
 
 
 ## :star2: About the Project
@@ -26,11 +27,24 @@
 
 ## :toolbox: Getting Started
 
+### :bangbang: Prerequisites
+
+- node.js<a href="https://nodejs.org/en"> Here</a>
+
+
 ### :gear: Installation
 
 
 ```bash
 npm i
+```
+
+
+### :test_tube: Running Tests
+
+
+```bash
+npm run dev
 ```
 
 
@@ -47,3 +61,10 @@ see `contributing.md` for ways to get started
 Nikhil Singh - [@twitter_handle](@mainikhilhun) - nikhilsingh.cc@gmail.com
 
 Project Link: [https://github.com/nikhilkcodes/currency_convertor_react.git](https://github.com/nikhilkcodes/currency_convertor_react.git)
+
+## :gem: Acknowledgements
+
+Use this section to mention useful resources and libraries that you have used in your projects.
+
+- [tailwind](https://tailwindcss.com/)
+- [react + vite ](https://vitejs.dev/)
